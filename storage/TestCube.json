@@ -1,0 +1,2604 @@
+{
+    "Anzrag, the Quake-Mole": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Anara, Wolvid Familiar": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Arcane Signet": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Atalan Jackal": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Bear Umbra": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Beast Within": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Birds of Paradise": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Chaos Warp": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Collective Resistance": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Command Tower": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Compelled Duel": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Constant Mists": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Druids' Repository": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Elvish Mystic": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Elvish Scout": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Embercleave": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Emerald Medallion": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Etali, Primal Storm": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Fanatic of Rhonas": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Flamekin Village": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Fog": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Forest": {
+        "Anzrag": {
+            "number": 14,
+            "colour": "RED"
+        },
+        "World_Shaper": {
+            "number": 8,
+            "colour": "MAGENTA"
+        }
+    },
+    "General Marhault Elsdragon": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Goblin Anarchomancer": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Goreclaw, Terror of Qal Sisma": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Grand Warlord Radha": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Hajar, Loyal Bodyguard": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Herd Heirloom": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Heroic Intervention": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Hunter's Insight": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Infiltration Lens": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Invasion of Ikoria // Zilortha, Apex of Ikoria": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Invasion Plans": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Irresistible Prey": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Kediss, Emberclaw Familiar": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Kessig Wolf Run": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Lure": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mage Slayer": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Maze of Ith": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mosswort Bridge": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mountain": {
+        "Anzrag": {
+            "number": 11,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 4,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 3,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 3,
+            "colour": "MAGENTA"
+        },
+        "Group_Hug_Doctor": {
+            "number": 2,
+            "colour": "RED"
+        }
+    },
+    "Nature's Lore": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Neyith of the Dire Hunt": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Obscuring Haze": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Overprotect": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Power Fist": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Radha, Heir to Keld": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Rancor": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Reliquary Tower": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Return of the Wildspeaker": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Rhythm of the Wild": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Roar of Challenge": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Rockfall Vale": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Rogue's Passage": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Rootbound Crag": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Selvala, Heart of the Wilds": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Skarrg, the Rage Pits": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Snake Umbra": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Spinerock Knoll": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Spore Frog": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Swiftfoot Boots": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sword of the Animist": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        },
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Tamiyo's Safekeeping": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Tectonic Giant": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Temur Battle Rage": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Terrifying Presence": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Tibalt's Trickery": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Traverse the Outlands": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Two-Handed Axe // Sweeping Cleave": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Tyrite Sanctum": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Tyvar's Stand": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Undergrowth": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Vexing Shusher": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Winds of Qal Sisma": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Xenagos, God of Revels": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "You Look Upon the Tarrasque": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Zhur-Taa Druid": {
+        "Anzrag": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Obeka, Splitter of Seconds": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Access Tunnel": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Aether Tunnel": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Ancestral Vision": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Aqueous Form": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Arena of Glory": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "As Foretold": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Bedevil": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Blackblade Reforged": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Blasphemous Act": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Blood Crypt": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Bonehoard Dracosaur": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Brotherhood Regalia": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Caves of Chaos Adventurer": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Command Beacon": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Counterspell": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Court of Ambition": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Court of Cunning": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Court of Embereth": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Court of Ire": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Creeping Bloodsucker": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Dragonmaster Outcast": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Extravagant Replication": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Generous Plunderer": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Haunted Ridge": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Indulgent Tormentor": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Inspiring Refrain": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Island": {
+        "Obeka": {
+            "number": 3,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 2,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 8,
+            "colour": "RED"
+        }
+    },
+    "Jhoira of the Ghitu": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Karlach, Fury of Avernus": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Lizard Blades": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Luxury Suite": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Mechanized Production": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Midnight Banshee": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Mithril Coat": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Morphic Pool": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Mox Tantalite": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Nightscape Familiar": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Paradox Haze": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Pongify": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Profane Tutor": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Protection Racket": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Rapid Hybridization": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Ravenloft Adventurer": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Replicating Ring": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Rilsa Rael, Kingpin": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Ring of Evos Isle": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Ring of Valkas": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Rousing Refrain": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Scalding Tarn": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sheoldred, Whispering One": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Shipwreck Marsh": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Shivan Reef": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Shizo, Death's Storehouse": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Silent Arbiter": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Silver Shroud Costume": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sin Prodder": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Skyline Despot": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sol Ring": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Sol Talisman": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Sonic Screwdriver": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Spark Double": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sphinx of the Second Sun": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Steam Vents": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Stormcarved Coast": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Strionic Resonator": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Sulfurous Springs": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Swamp": {
+        "Obeka": {
+            "number": 4,
+            "colour": "LIGHTRED_EX"
+        },
+        "World_Shaper": {
+            "number": 5,
+            "colour": "MAGENTA"
+        }
+    },
+    "Talisman of Creativity": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Talisman of Indulgence": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Temple of the False God": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        },
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Thassa, God of the Sea": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "The Black Gate": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "The Reaver Cleaver": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Thopter Spy Network": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Tomb of Horrors Adventurer": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Toxic Deluge": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Training Center": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Twilight Prophet": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Underground River": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Vorrac Battlehorns": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Watery Grave": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Weed-Pruner Poplar": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Winged Boots": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Xander's Lounge": {
+        "Obeka": {
+            "number": 1,
+            "colour": "LIGHTRED_EX"
+        }
+    },
+    "Rose Tyler": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "The Tenth Doctor": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Adipose Offspring": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Amy Pond": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Chronomantic Escape": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Chronozoa": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Coward // Killer": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Crack in Time": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Deserted Beach": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Dinosaurs on a Spaceship": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Ecstatic Beauty": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Everybody Lives!": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Everything Comes to Dust": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Evolving Wilds": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Exotic Orchard": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Farewell": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Fellwar Stone": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Fiery Islet": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Flaming Tyrannosaurus": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Flesh Duplicate": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Four Knocks": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Frostboil Snarl": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Furycalm Snarl": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Gallifrey Council Chamber": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Glacial Fortress": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Grasp of Fate": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Irrigated Farmland": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Judoon Enforcers": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Kate Stewart": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Lightning Greaves": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Lotus Bloom": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Myriad Landscape": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Mystic Monastery": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mystical Tutor": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Nalfeshnee": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Nanogene Conversion": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Ominous Cemetery": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Out of Time": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Ovika, Enigma Goliath": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Path of Ancestry": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Personal Tutor": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Plains": {
+        "Timey_Wimey": {
+            "number": 2,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 3,
+            "colour": "RED"
+        }
+    },
+    "Port Town": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Prairie Stream": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Psychic Paper": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Quintorius Kand": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Rift Elemental": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Rotating Fireplace": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Run for Your Life": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Sibylline Soothsayer": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Sinister Concierge": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Skycloud Expanse": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Star Whale": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Sunbaked Canyon": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Sundown Pass": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Talisman of Conviction": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        },
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "TARDIS": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Temple of Enlightenment": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Temple of Epiphany": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Temple of Triumph": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "The Pandorica": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "The Parting of the Ways": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "The War Doctor": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "The Wedding of River Song": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Thespian's Stage": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Thriving Bluff": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Time Beetle": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Time Stretch": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Training Grounds": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Trenzalore Clocktower": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Vega, the Watcher": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "War Room": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Wedding Ring": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Wheel of Fate": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Wibbly-wobbly, Timey-wimey": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Wild-Magic Sorcerer": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Wilfred Mott": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Zirda, the Dawnwaker": {
+        "Timey_Wimey": {
+            "number": 1,
+            "colour": "BLUE"
+        }
+    },
+    "Hearthhull, the Worldseed": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Aftermath Analyst": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Augur of Autumn": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Baloth Prime": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Binding the Old Gods": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Bojuka Bog": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Braids, Arisen Nightmare": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Cabaretti Courtyard": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Canyon Slough": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Centaur Vinecrasher": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Cinder Glade": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Cultivate": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Dakmor Salvage": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Escape to the Wilds": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Escape Tunnel": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Eumidian Hatchery": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Eumidian Wastewaker": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Evendo Brushrazer": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Exploration Broodship": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Fabled Passage": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Farseek": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Festering Thicket": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Formless Genesis": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Gaze of Granite": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "God-Eternal Bontu": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Greater Gargadon": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Grisly Salvage": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Groundskeeper": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Hammer of Purphoros": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Harrow": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Horizon Explorer": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Infernal Grasp": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Juri, Master of the Revue": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Karplusan Forest": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Korvold, Fae-Cursed King": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Llanowar Wastes": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Loamcrafter Faun": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Lotus Cobra": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Maestros Theater": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Manifold Key": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Mayhem Devil": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Mazirek, Kraul Death Priest": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Moraug, Fury of Akoum": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Mountain Valley": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Multani, Yavimaya's Avatar": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Night's Whisper": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Omnath, Locus of Rage": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Oracle of Mul Daya": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Pest Infestation": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Planetary Annihilation": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Putrefy": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Rakdos Charm": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Rampaging Baloths": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Ramunap Excavator": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Riveteers Overlook": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Rocky Tar Pit": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Roiling Regrowth": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Satyr Wayfinder": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Scouring Swarm": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Sheltered Thicket": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Skyshroud Claim": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Smoldering Marsh": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Soul of Windgrace": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Splendid Reclamation": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Springbloom Druid": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Sprouting Goblin": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Sylvan Safekeeper": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Szarel, Genesis Shepherd": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Tear Asunder": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Terramorphic Expanse": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "The Gitrog Monster": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Tiller Engine": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Tireless Tracker": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Titania, Protector of Argoth": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Twilight Mire": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Uurg, Spawn of Turg": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Valakut Exploration": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Vernal Fen": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Viridescent Bog": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Walk-In Closet // Forgotten Cellar": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Wastes": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Windgrace's Judgment": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "World Breaker": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Worldsoul's Rage": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Zuran Orb": {
+        "World_Shaper": {
+            "number": 1,
+            "colour": "MAGENTA"
+        }
+    },
+    "Donna Noble": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "The Second Doctor": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Adarkar Wastes": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Alandra, Sky Dreamer": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Ancient Den": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Arcane Denial": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Artistic Refusal": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Azorius Chancery": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Chasm Skulker": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Comeuppance": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Dakra Mystic": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Divide by Zero": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Emberwilde Captain": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Emrakul's Messenger": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Fevered Visions": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Folio of Fancies": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Forced Fruition": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Geier Reach Sanitarium": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Geistwave": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Gideon's Sacrifice": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Great Furnace": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Homunculus Horde": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Horizon of Progress": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Howling Mine": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Interdict": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Into the Roil": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Irencrag Pyromancer": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Island Sanctuary": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Jace's Archivist": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Kami of the Crescent Moon": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Kwain, Itinerant Meddler": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Laboratory Maniac": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Loran of the Third Path": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Lore Broker": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mangara, the Diplomat": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mikokoro, Center of the Sea": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mind Stone": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Minn, Wily Illusionist": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mirrorweave": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Misleading Signpost": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Molten Tributary": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Monologue Tax": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Mystic Reflection": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Narset's Reversal": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Otherworld Atlas": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Perilous Landscape": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Razortide Bridge": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Reins of Power": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Reverse the Polarity": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Runeflare Trap": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Scrawling Crawler": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Seachrome Coast": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Seat of the Synod": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Silverbluff Bridge": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Smuggler's Share": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Sokrates, Athenian Teacher": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Sulfur Falls": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Swans of Bryn Argoll": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Sword of War and Peace": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Talisman of Progress": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Teferi's Ageless Insight": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Temple Bell": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Terrain Generator": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "The Council of Four": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Thought Vessel": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Unquenchable Fury": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Unwinding Clock": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Wrong Turn": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    },
+    "Zurzoth, Chaos Rider": {
+        "Group_Hug_Doctor": {
+            "number": 1,
+            "colour": "RED"
+        }
+    }
+}
