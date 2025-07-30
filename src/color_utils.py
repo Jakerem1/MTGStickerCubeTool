@@ -1,6 +1,6 @@
 import colorama
 
-colorama.init(autoreset=True)
+colorama.init()
 
 # Define a colormap from low to high
 colours = {
